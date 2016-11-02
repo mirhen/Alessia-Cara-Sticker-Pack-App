@@ -1,4 +1,4 @@
-<img src="Application Icon.png" width="200" height="200" align="center" /> 
+<img src="Application Icon.png" width="200" height="200" align="center" border-radius="5" /> 
 #Alessia Cara Sticker Pack
 
 **Alessia Cara's Sticker Pack'** is a fun and creative sticker pack for everyone who loves the insperational Alessia Cara.
